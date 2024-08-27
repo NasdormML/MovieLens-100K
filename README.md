@@ -8,7 +8,7 @@
 A movie recommendation service
 
 ## Project Structure
-
+- `data/ml-100k`: Full dataset from Kaggle.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model evaluation.
   - `prep_note.ipynb`: Starter import, merge and visual data, been reworked.
 - `README.md`: Project overview and instructions.
