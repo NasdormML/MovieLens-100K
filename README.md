@@ -25,10 +25,10 @@ The dataset can be downloaded from [here](https://grouplens.org/datasets/moviele
 
 ```bash
 ├── data/
-│      └──ml-100k                            # Datasets used in the project
+│      └── ml-100k                            # Datasets used in the project
 ├── notebooks/
-│     ├──EDA.ipynb                          # Jupyter notebooks with EDA
-│     └──test_build.ipynb                   # Slim build for starting
+│     ├── EDA.ipynb                          # Jupyter notebooks with EDA
+│     └── test_build.ipynb                   # Slim build for starting
 ├── README.md                               # Project overview and setup
 └── requirements.txt                        # Dependencies and libraries
 ```
