@@ -43,7 +43,7 @@ This project builds a hybrid recommendation system using the MovieLens 100k data
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/MovieLens-100k-Recommender.git
+   git clone https://github.com/NasdormML/MovieLens-100k.git
    cd MovieLens-100k-Recommender
    ```
 2. Download the MovieLens 100k dataset from [here](https://grouplens.org/datasets/movielens/100k/) and place it in the `data/` directory.
